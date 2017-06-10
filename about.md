@@ -8,5 +8,4 @@ I don't have much to say yet, I guess
 
 
 ### Contact me
-
-[test@domain.com](mailto:test@domain.com)
+<p> {% include svg-icons.html %} </p>
